@@ -1,0 +1,167 @@
+{
+  "name": "intent",
+  "version": "1.0.0",
+  "algorithm": "TF-IDF + Logistic Regression",
+  "training_date": "2026-09-06T07:13:42.920966+00:00",
+  "dataset_size": 706,
+  "status": "active",
+  "accuracy": 0.8943661971830986,
+  "precision": 0.9045767357769807,
+  "recall": 0.8943661971830986,
+  "f1": 0.8962848043122663,
+  "confusion_matrix": [
+    [
+      3,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      41,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      6,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      1,
+      0,
+      0,
+      67,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      6,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      2
+    ]
+  ],
+  "labels": [
+    "Bug Report",
+    "Complaint",
+    "Feature Request",
+    "Information",
+    "Praise",
+    "Question",
+    "Request",
+    "Suggestion"
+  ],
+  "report": {
+    "Bug Report": {
+      "precision": 0.5,
+      "recall": 0.6,
+      "f1-score": 0.5454545454545454,
+      "support": 5.0
+    },
+    "Complaint": {
+      "precision": 0.8913043478260869,
+      "recall": 0.9534883720930233,
+      "f1-score": 0.9213483146067416,
+      "support": 43.0
+    },
+    "Feature Request": {
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.9230769230769231,
+      "support": 7.0
+    },
+    "Information": {
+      "precision": 1.0,
+      "recall": 0.5,
+      "f1-score": 0.6666666666666666,
+      "support": 2.0
+    },
+    "Praise": {
+      "precision": 0.9571428571428572,
+      "recall": 0.9436619718309859,
+      "f1-score": 0.950354609929078,
+      "support": 71.0
+    },
+    "Question": {
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1-score": 0.8571428571428571,
+      "support": 8.0
+    },
+    "Request": {
+      "precision": 0.3333333333333333,
+      "recall": 0.5,
+      "f1-score": 0.4,
+      "support": 2.0
+    },
+    "Suggestion": {
+      "precision": 0.5,
+      "recall": 0.5,
+      "f1-score": 0.5,
+      "support": 4.0
+    },
+    "accuracy": 0.8943661971830986,
+    "macro avg": {
+      "precision": 0.7727225672877847,
+      "recall": 0.7005366501333583,
+      "f1-score": 0.7205054896096015,
+      "support": 142.0
+    },
+    "weighted avg": {
+      "precision": 0.9045767357769807,
+      "recall": 0.8943661971830986,
+      "f1-score": 0.8962848043122663,
+      "support": 142.0
+    }
+  }
+}

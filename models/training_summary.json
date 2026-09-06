@@ -1,0 +1,720 @@
+[
+  {
+    "name": "sentiment",
+    "version": "1.0.0",
+    "algorithm": "TF-IDF + Logistic Regression",
+    "training_date": "2026-09-06T07:13:42.488651+00:00",
+    "dataset_size": 706,
+    "status": "active",
+    "accuracy": 0.9084507042253521,
+    "precision": 0.9095450630202621,
+    "recall": 0.9084507042253521,
+    "f1": 0.9085623804999002,
+    "confusion_matrix": [
+      [
+        45,
+        3,
+        1
+      ],
+      [
+        4,
+        17,
+        1
+      ],
+      [
+        3,
+        1,
+        67
+      ]
+    ],
+    "labels": [
+      "negative",
+      "neutral",
+      "positive"
+    ],
+    "report": {
+      "negative": {
+        "precision": 0.8653846153846154,
+        "recall": 0.9183673469387755,
+        "f1-score": 0.8910891089108911,
+        "support": 49.0
+      },
+      "neutral": {
+        "precision": 0.8095238095238095,
+        "recall": 0.7727272727272727,
+        "f1-score": 0.7906976744186046,
+        "support": 22.0
+      },
+      "positive": {
+        "precision": 0.9710144927536232,
+        "recall": 0.9436619718309859,
+        "f1-score": 0.9571428571428572,
+        "support": 71.0
+      },
+      "accuracy": 0.9084507042253521,
+      "macro avg": {
+        "precision": 0.8819743058873494,
+        "recall": 0.8782521971656782,
+        "f1-score": 0.8796432134907843,
+        "support": 142.0
+      },
+      "weighted avg": {
+        "precision": 0.9095450630202621,
+        "recall": 0.9084507042253521,
+        "f1-score": 0.9085623804999002,
+        "support": 142.0
+      }
+    }
+  },
+  {
+    "name": "emotion",
+    "version": "1.0.0",
+    "algorithm": "TF-IDF + Logistic Regression",
+    "training_date": "2026-09-06T07:13:42.609194+00:00",
+    "dataset_size": 706,
+    "status": "active",
+    "accuracy": 0.9295774647887324,
+    "precision": 0.9461141851106639,
+    "recall": 0.9295774647887324,
+    "f1": 0.9341262317494711,
+    "confusion_matrix": [
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        9,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        15,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        18,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        39,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        10,
+        0,
+        1
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        30
+      ]
+    ],
+    "labels": [
+      "anger",
+      "confusion",
+      "disappointment",
+      "frustration",
+      "joy",
+      "neutral",
+      "sadness",
+      "satisfaction"
+    ],
+    "report": {
+      "anger": {
+        "precision": 0.42857142857142855,
+        "recall": 1.0,
+        "f1-score": 0.6,
+        "support": 3.0
+      },
+      "confusion": {
+        "precision": 0.9,
+        "recall": 0.9,
+        "f1-score": 0.9,
+        "support": 10.0
+      },
+      "disappointment": {
+        "precision": 1.0,
+        "recall": 0.8823529411764706,
+        "f1-score": 0.9375,
+        "support": 17.0
+      },
+      "frustration": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.9230769230769231,
+        "support": 21.0
+      },
+      "joy": {
+        "precision": 0.975,
+        "recall": 0.975,
+        "f1-score": 0.975,
+        "support": 40.0
+      },
+      "neutral": {
+        "precision": 0.8333333333333334,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8333333333333334,
+        "support": 12.0
+      },
+      "sadness": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 8.0
+      },
+      "satisfaction": {
+        "precision": 0.9375,
+        "recall": 0.967741935483871,
+        "f1-score": 0.9523809523809523,
+        "support": 31.0
+      },
+      "accuracy": 0.9295774647887324,
+      "macro avg": {
+        "precision": 0.8843005952380952,
+        "recall": 0.9269463833920666,
+        "f1-score": 0.8901614010989012,
+        "support": 142.0
+      },
+      "weighted avg": {
+        "precision": 0.9461141851106639,
+        "recall": 0.9295774647887324,
+        "f1-score": 0.9341262317494711,
+        "support": 142.0
+      }
+    }
+  },
+  {
+    "name": "category",
+    "version": "1.0.0",
+    "algorithm": "TF-IDF + Logistic Regression",
+    "training_date": "2026-09-06T07:13:42.767390+00:00",
+    "dataset_size": 706,
+    "status": "active",
+    "accuracy": 0.8661971830985915,
+    "precision": 0.8653678871988731,
+    "recall": 0.8661971830985915,
+    "f1": 0.8571392605240855,
+    "confusion_matrix": [
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        25,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        8,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        10,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        57,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        4,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ]
+    ],
+    "labels": [
+      "Account",
+      "Customer Support",
+      "Delivery",
+      "Documentation",
+      "Other",
+      "Payment",
+      "Performance",
+      "Pricing",
+      "Product",
+      "Security",
+      "Service",
+      "Technical Issue",
+      "UX/UI"
+    ],
+    "report": {
+      "Account": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 1.0
+      },
+      "Customer Support": {
+        "precision": 0.5555555555555556,
+        "recall": 1.0,
+        "f1-score": 0.7142857142857143,
+        "support": 5.0
+      },
+      "Delivery": {
+        "precision": 0.9615384615384616,
+        "recall": 0.8928571428571429,
+        "f1-score": 0.9259259259259259,
+        "support": 28.0
+      },
+      "Documentation": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 2.0
+      },
+      "Other": {
+        "precision": 1.0,
+        "recall": 0.8,
+        "f1-score": 0.8888888888888888,
+        "support": 10.0
+      },
+      "Payment": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "f1-score": 0.9523809523809523,
+        "support": 10.0
+      },
+      "Performance": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1-score": 0.5,
+        "support": 2.0
+      },
+      "Pricing": {
+        "precision": 1.0,
+        "recall": 0.875,
+        "f1-score": 0.9333333333333333,
+        "support": 8.0
+      },
+      "Product": {
+        "precision": 0.9047619047619048,
+        "recall": 0.9344262295081968,
+        "f1-score": 0.9193548387096774,
+        "support": 61.0
+      },
+      "Security": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0
+      },
+      "Service": {
+        "precision": 0.8,
+        "recall": 0.5,
+        "f1-score": 0.6153846153846154,
+        "support": 8.0
+      },
+      "Technical Issue": {
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1-score": 0.6666666666666666,
+        "support": 3.0
+      },
+      "UX/UI": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 2.0
+      },
+      "accuracy": 0.8661971830985915,
+      "macro avg": {
+        "precision": 0.6639189869959101,
+        "recall": 0.7309448747973339,
+        "f1-score": 0.6756067386340339,
+        "support": 142.0
+      },
+      "weighted avg": {
+        "precision": 0.8653678871988731,
+        "recall": 0.8661971830985915,
+        "f1-score": 0.8571392605240855,
+        "support": 142.0
+      }
+    }
+  },
+  {
+    "name": "intent",
+    "version": "1.0.0",
+    "algorithm": "TF-IDF + Logistic Regression",
+    "training_date": "2026-09-06T07:13:42.920966+00:00",
+    "dataset_size": 706,
+    "status": "active",
+    "accuracy": 0.8943661971830986,
+    "precision": 0.9045767357769807,
+    "recall": 0.8943661971830986,
+    "f1": 0.8962848043122663,
+    "confusion_matrix": [
+      [
+        3,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        1,
+        41,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        6,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        1,
+        0,
+        0,
+        67,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        6,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        2
+      ]
+    ],
+    "labels": [
+      "Bug Report",
+      "Complaint",
+      "Feature Request",
+      "Information",
+      "Praise",
+      "Question",
+      "Request",
+      "Suggestion"
+    ],
+    "report": {
+      "Bug Report": {
+        "precision": 0.5,
+        "recall": 0.6,
+        "f1-score": 0.5454545454545454,
+        "support": 5.0
+      },
+      "Complaint": {
+        "precision": 0.8913043478260869,
+        "recall": 0.9534883720930233,
+        "f1-score": 0.9213483146067416,
+        "support": 43.0
+      },
+      "Feature Request": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1-score": 0.9230769230769231,
+        "support": 7.0
+      },
+      "Information": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1-score": 0.6666666666666666,
+        "support": 2.0
+      },
+      "Praise": {
+        "precision": 0.9571428571428572,
+        "recall": 0.9436619718309859,
+        "f1-score": 0.950354609929078,
+        "support": 71.0
+      },
+      "Question": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.8571428571428571,
+        "support": 8.0
+      },
+      "Request": {
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1-score": 0.4,
+        "support": 2.0
+      },
+      "Suggestion": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1-score": 0.5,
+        "support": 4.0
+      },
+      "accuracy": 0.8943661971830986,
+      "macro avg": {
+        "precision": 0.7727225672877847,
+        "recall": 0.7005366501333583,
+        "f1-score": 0.7205054896096015,
+        "support": 142.0
+      },
+      "weighted avg": {
+        "precision": 0.9045767357769807,
+        "recall": 0.8943661971830986,
+        "f1-score": 0.8962848043122663,
+        "support": 142.0
+      }
+    }
+  }
+]

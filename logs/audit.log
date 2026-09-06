@@ -1,0 +1,19 @@
+2026-09-06 12:45:29 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "analyst", "ip": "127.0.0.1", "metadata": {"feedback_id": "FB-6A5C3A3B"}}
+2026-09-06 12:45:32 | INFO | insightai.audit | {"event": "EXPORT_GENERATED", "user": "analyst", "ip": "127.0.0.1", "metadata": {"format": "csv", "count": 2208}}
+2026-09-06 12:45:35 | INFO | insightai.audit | {"event": "EXPORT_GENERATED", "user": "analyst", "ip": "127.0.0.1", "metadata": {"format": "json", "count": 2208}}
+2026-09-06 12:45:47 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "analyst", "ip": "testclient", "metadata": {"feedback_id": "FB-EBFFBAF9"}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "CSV_IMPORTED", "user": "analyst", "ip": "testclient", "metadata": {"filename": "batch.csv", "imported": 1, "skipped": 0}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "EXPORT_GENERATED", "user": "analyst", "ip": "testclient", "metadata": {"format": "csv", "count": 2}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "EXPORT_GENERATED", "user": "analyst", "ip": "testclient", "metadata": {"format": "json", "count": 2}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "tester", "ip": "127.0.0.1", "metadata": {"feedback_id": "FB-D32664B7"}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "FEEDBACK_UPDATED", "user": "tester", "ip": "127.0.0.1", "metadata": {"id": 3}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "FEEDBACK_DELETED", "user": "tester", "ip": "127.0.0.1", "metadata": {"id": 3}}
+2026-09-06 12:45:48 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "tester", "ip": "127.0.0.1", "metadata": {"feedback_id": "FB-7C397156"}}
+2026-09-06 12:46:48 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "analyst", "ip": "testclient", "metadata": {"feedback_id": "FB-4808BF8F"}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "CSV_IMPORTED", "user": "analyst", "ip": "testclient", "metadata": {"filename": "batch.csv", "imported": 1, "skipped": 0}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "EXPORT_GENERATED", "user": "analyst", "ip": "testclient", "metadata": {"format": "csv", "count": 5}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "EXPORT_GENERATED", "user": "analyst", "ip": "testclient", "metadata": {"format": "json", "count": 5}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "tester", "ip": "127.0.0.1", "metadata": {"feedback_id": "FB-E84D85B6"}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "FEEDBACK_UPDATED", "user": "tester", "ip": "127.0.0.1", "metadata": {"id": 6}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "FEEDBACK_DELETED", "user": "tester", "ip": "127.0.0.1", "metadata": {"id": 6}}
+2026-09-06 12:46:49 | INFO | insightai.audit | {"event": "FEEDBACK_CREATED", "user": "tester", "ip": "127.0.0.1", "metadata": {"feedback_id": "FB-D2C6E327"}}

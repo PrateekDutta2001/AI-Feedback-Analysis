@@ -1,0 +1,67 @@
+{
+  "name": "sentiment",
+  "version": "1.0.0",
+  "algorithm": "TF-IDF + Logistic Regression",
+  "training_date": "2026-09-06T07:13:42.488651+00:00",
+  "dataset_size": 706,
+  "status": "active",
+  "accuracy": 0.9084507042253521,
+  "precision": 0.9095450630202621,
+  "recall": 0.9084507042253521,
+  "f1": 0.9085623804999002,
+  "confusion_matrix": [
+    [
+      45,
+      3,
+      1
+    ],
+    [
+      4,
+      17,
+      1
+    ],
+    [
+      3,
+      1,
+      67
+    ]
+  ],
+  "labels": [
+    "negative",
+    "neutral",
+    "positive"
+  ],
+  "report": {
+    "negative": {
+      "precision": 0.8653846153846154,
+      "recall": 0.9183673469387755,
+      "f1-score": 0.8910891089108911,
+      "support": 49.0
+    },
+    "neutral": {
+      "precision": 0.8095238095238095,
+      "recall": 0.7727272727272727,
+      "f1-score": 0.7906976744186046,
+      "support": 22.0
+    },
+    "positive": {
+      "precision": 0.9710144927536232,
+      "recall": 0.9436619718309859,
+      "f1-score": 0.9571428571428572,
+      "support": 71.0
+    },
+    "accuracy": 0.9084507042253521,
+    "macro avg": {
+      "precision": 0.8819743058873494,
+      "recall": 0.8782521971656782,
+      "f1-score": 0.8796432134907843,
+      "support": 142.0
+    },
+    "weighted avg": {
+      "precision": 0.9095450630202621,
+      "recall": 0.9084507042253521,
+      "f1-score": 0.9085623804999002,
+      "support": 142.0
+    }
+  }
+}

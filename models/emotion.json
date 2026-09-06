@@ -1,0 +1,167 @@
+{
+  "name": "emotion",
+  "version": "1.0.0",
+  "algorithm": "TF-IDF + Logistic Regression",
+  "training_date": "2026-09-06T07:13:42.609194+00:00",
+  "dataset_size": 706,
+  "status": "active",
+  "accuracy": 0.9295774647887324,
+  "precision": 0.9461141851106639,
+  "recall": 0.9295774647887324,
+  "f1": 0.9341262317494711,
+  "confusion_matrix": [
+    [
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      9,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      15,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      18,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      39,
+      0,
+      0,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      10,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      8,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      30
+    ]
+  ],
+  "labels": [
+    "anger",
+    "confusion",
+    "disappointment",
+    "frustration",
+    "joy",
+    "neutral",
+    "sadness",
+    "satisfaction"
+  ],
+  "report": {
+    "anger": {
+      "precision": 0.42857142857142855,
+      "recall": 1.0,
+      "f1-score": 0.6,
+      "support": 3.0
+    },
+    "confusion": {
+      "precision": 0.9,
+      "recall": 0.9,
+      "f1-score": 0.9,
+      "support": 10.0
+    },
+    "disappointment": {
+      "precision": 1.0,
+      "recall": 0.8823529411764706,
+      "f1-score": 0.9375,
+      "support": 17.0
+    },
+    "frustration": {
+      "precision": 1.0,
+      "recall": 0.8571428571428571,
+      "f1-score": 0.9230769230769231,
+      "support": 21.0
+    },
+    "joy": {
+      "precision": 0.975,
+      "recall": 0.975,
+      "f1-score": 0.975,
+      "support": 40.0
+    },
+    "neutral": {
+      "precision": 0.8333333333333334,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.8333333333333334,
+      "support": 12.0
+    },
+    "sadness": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1-score": 1.0,
+      "support": 8.0
+    },
+    "satisfaction": {
+      "precision": 0.9375,
+      "recall": 0.967741935483871,
+      "f1-score": 0.9523809523809523,
+      "support": 31.0
+    },
+    "accuracy": 0.9295774647887324,
+    "macro avg": {
+      "precision": 0.8843005952380952,
+      "recall": 0.9269463833920666,
+      "f1-score": 0.8901614010989012,
+      "support": 142.0
+    },
+    "weighted avg": {
+      "precision": 0.9461141851106639,
+      "recall": 0.9295774647887324,
+      "f1-score": 0.9341262317494711,
+      "support": 142.0
+    }
+  }
+}

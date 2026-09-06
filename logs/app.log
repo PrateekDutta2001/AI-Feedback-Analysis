@@ -1,0 +1,140 @@
+2026-09-06 12:43:26 | INFO | insightai.ml.trainer | Model files missing; training from dataset.
+2026-09-06 12:43:27 | INFO | insightai.ml.registry | Saved model sentiment version 1.0.0
+2026-09-06 12:43:27 | INFO | insightai.ml.trainer | Trained sentiment accuracy=0.933 f1=0.932
+2026-09-06 12:43:42 | INFO | insightai.ml.registry | Saved model sentiment version 1.0.0
+2026-09-06 12:43:42 | INFO | insightai.ml.trainer | Trained sentiment accuracy=0.908 f1=0.909
+2026-09-06 12:43:42 | INFO | insightai.ml.registry | Saved model emotion version 1.0.0
+2026-09-06 12:43:42 | INFO | insightai.ml.trainer | Trained emotion accuracy=0.930 f1=0.934
+2026-09-06 12:43:42 | INFO | insightai.ml.registry | Saved model category version 1.0.0
+2026-09-06 12:43:42 | INFO | insightai.ml.trainer | Trained category accuracy=0.866 f1=0.857
+2026-09-06 12:43:42 | INFO | insightai.ml.registry | Saved model intent version 1.0.0
+2026-09-06 12:43:42 | INFO | insightai.ml.trainer | Trained intent accuracy=0.894 f1=0.896
+2026-09-06 12:44:31 | INFO | insightai | Starting InsightAI
+2026-09-06 12:44:31 | INFO | insightai.seed | Importing dummy feedback from C:\Users\Test\Desktop\AI_PRODUCT_MANAGeR\Feedback_analysis\data\dummy_feedback.csv
+2026-09-06 12:44:33 | INFO | insightai.seed | Seed import complete training=706 dummy=2207 created=2207
+2026-09-06 12:44:33 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:44:33 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:44:33 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:44:33 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:44:33 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:44:34 | INFO | insightai.seed | Analyzed 100 feedback records
+2026-09-06 12:44:36 | INFO | insightai.seed | Analyzed 200 feedback records
+2026-09-06 12:44:38 | INFO | insightai.seed | Analyzed 300 feedback records
+2026-09-06 12:44:40 | INFO | insightai.seed | Analyzed 400 feedback records
+2026-09-06 12:44:41 | INFO | insightai.seed | Analyzed 500 feedback records
+2026-09-06 12:44:43 | INFO | insightai.seed | Analyzed 600 feedback records
+2026-09-06 12:44:45 | INFO | insightai.seed | Analyzed 700 feedback records
+2026-09-06 12:44:46 | INFO | insightai.seed | Analyzed 800 feedback records
+2026-09-06 12:44:48 | INFO | insightai.seed | Analyzed 900 feedback records
+2026-09-06 12:44:49 | INFO | insightai.seed | Analyzed 1000 feedback records
+2026-09-06 12:44:51 | INFO | insightai.seed | Analyzed 1100 feedback records
+2026-09-06 12:44:53 | INFO | insightai.seed | Analyzed 1200 feedback records
+2026-09-06 12:44:54 | INFO | insightai.seed | Analyzed 1300 feedback records
+2026-09-06 12:44:56 | INFO | insightai.seed | Analyzed 1400 feedback records
+2026-09-06 12:44:58 | INFO | insightai.seed | Analyzed 1500 feedback records
+2026-09-06 12:44:59 | INFO | insightai.seed | Analyzed 1600 feedback records
+2026-09-06 12:45:01 | INFO | insightai.seed | Analyzed 1700 feedback records
+2026-09-06 12:45:03 | INFO | insightai.seed | Analyzed 1800 feedback records
+2026-09-06 12:45:05 | INFO | insightai.seed | Analyzed 1900 feedback records
+2026-09-06 12:45:06 | INFO | insightai.seed | Analyzed 2000 feedback records
+2026-09-06 12:45:07 | INFO | insightai.seed | Analyzed 2100 feedback records
+2026-09-06 12:45:09 | INFO | insightai.seed | Analyzed 2200 feedback records
+2026-09-06 12:45:10 | INFO | insightai | InsightAI startup complete
+2026-09-06 12:45:20 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:45:20 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:45:20 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:45:20 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:45:47 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:45:47 | INFO | insightai | Starting InsightAI
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:45:47 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:45:47 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:45:47 | INFO | insightai | InsightAI startup complete
+2026-09-06 12:45:47 | INFO | httpx | HTTP Request: GET http://testserver/api/health "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: POST http://testserver/api/feedback "HTTP/1.1 201 Created"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/feedback/1 "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/feedback?page=1&page_size=5 "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: POST http://testserver/api/feedback/analyze "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/dashboard "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/sentiment "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/trends "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/categories "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/emotions "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/departments "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/products "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/insights "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/alerts "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: POST http://testserver/api/upload "HTTP/1.1 400 Bad Request"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: POST http://testserver/api/upload "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: POST http://testserver/api/import "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/export/csv "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: GET http://testserver/api/export/json "HTTP/1.1 200 OK"
+2026-09-06 12:45:48 | INFO | httpx | HTTP Request: POST http://testserver/api/feedback "HTTP/1.1 422 Unprocessable Entity"
+2026-09-06 12:45:48 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:45:48 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:45:48 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:45:48 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:45:48 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:46:37 | INFO | insightai | Starting InsightAI
+2026-09-06 12:46:37 | INFO | insightai.seed | Seed import complete training=706 dummy=2207 created=0
+2026-09-06 12:46:38 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:46:38 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:46:38 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:46:38 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:46:38 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:46:39 | INFO | insightai | InsightAI startup complete
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:46:48 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:46:48 | INFO | insightai | Starting InsightAI
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:46:48 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:46:48 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:46:48 | INFO | insightai | InsightAI startup complete
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/health "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: POST http://testserver/api/feedback "HTTP/1.1 201 Created"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/feedback/4 "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/feedback?page=1&page_size=5 "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: POST http://testserver/api/feedback/analyze "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/dashboard "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/sentiment "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/trends "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/categories "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/emotions "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/departments "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/analytics/products "HTTP/1.1 200 OK"
+2026-09-06 12:46:48 | INFO | httpx | HTTP Request: GET http://testserver/api/insights "HTTP/1.1 200 OK"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: GET http://testserver/api/alerts "HTTP/1.1 200 OK"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: POST http://testserver/api/upload "HTTP/1.1 400 Bad Request"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: POST http://testserver/api/upload "HTTP/1.1 200 OK"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: POST http://testserver/api/import "HTTP/1.1 200 OK"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: GET http://testserver/api/export/csv "HTTP/1.1 200 OK"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: GET http://testserver/api/export/json "HTTP/1.1 200 OK"
+2026-09-06 12:46:49 | INFO | httpx | HTTP Request: POST http://testserver/api/feedback "HTTP/1.1 422 Unprocessable Entity"
+2026-09-06 12:46:49 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:46:49 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:46:49 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:46:49 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:46:49 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:47:09 | INFO | insightai | Starting InsightAI
+2026-09-06 12:47:09 | INFO | insightai.seed | Seed import complete training=706 dummy=2207 created=0
+2026-09-06 12:47:09 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:47:09 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:47:09 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:47:09 | INFO | insightai.ml.registry | Loaded model intent
+2026-09-06 12:47:09 | INFO | insightai.ml.trainer | Existing models loaded; training skipped.
+2026-09-06 12:47:10 | INFO | insightai | InsightAI startup complete
+2026-09-06 12:53:26 | INFO | insightai.ml.registry | Loaded model sentiment
+2026-09-06 12:53:26 | INFO | insightai.ml.registry | Loaded model emotion
+2026-09-06 12:53:26 | INFO | insightai.ml.registry | Loaded model category
+2026-09-06 12:53:26 | INFO | insightai.ml.registry | Loaded model intent
