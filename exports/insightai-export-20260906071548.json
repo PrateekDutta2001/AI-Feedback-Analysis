@@ -1,0 +1,43 @@
+{
+  "count": 2,
+  "items": [
+    {
+      "feedback_id": "FB-EBFFBAF9",
+      "customer_id": "CU-TEST-1",
+      "date": "2026-09-06T07:15:47.901826",
+      "text": "Delivery was extremely late and customer support did not respond.",
+      "product": "InsightPortal",
+      "department": "Operations",
+      "channel": "Email",
+      "location": "Ahmedabad",
+      "segment": "Enterprise",
+      "rating": 1,
+      "status": "open",
+      "sentiment": "negative",
+      "emotion": "frustration",
+      "category": "Customer Support",
+      "intent": "Complaint",
+      "priority": "critical",
+      "severity": 3
+    },
+    {
+      "feedback_id": "FB-CSV-1",
+      "customer_id": "CU-9",
+      "date": "2026-07-01T00:00:00",
+      "text": "The delivery was late and support did not help",
+      "product": "InsightPay",
+      "department": "Operations",
+      "channel": "Email",
+      "location": "Surat",
+      "segment": "SMB",
+      "rating": 2,
+      "status": "open",
+      "sentiment": "negative",
+      "emotion": "frustration",
+      "category": "Delivery",
+      "intent": "Complaint",
+      "priority": "critical",
+      "severity": 3
+    }
+  ]
+}

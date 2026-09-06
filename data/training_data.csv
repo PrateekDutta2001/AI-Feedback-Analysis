@@ -1,0 +1,707 @@
+text,sentiment,emotion,category,intent
+Delivery arrived earlier than promised and the package was intact.,positive,satisfaction,Delivery,Praise
+Courier service was excellent and I received my order on time.,positive,satisfaction,Delivery,Praise
+Courier service was excellent and I received my order on time. This was reported for InsightSecure.,positive,satisfaction,Delivery,Praise
+Shipping was fast and the tracking updates were accurate.,positive,satisfaction,Delivery,Praise
+Shipping was fast and the tracking updates were accurate. This was reported for InsightCloud.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Ahmedabad.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Surat.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in Mumbai.,positive,satisfaction,Delivery,Praise
+Loved how quickly the parcel reached my office in London.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPay was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPay was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPay was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPay was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCloud was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCloud was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCloud was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCloud was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightMobile was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightMobile was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightMobile was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightMobile was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCRM was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCRM was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCRM was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightCRM was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightAnalytics was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightAnalytics was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightAnalytics was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightAnalytics was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightSecure was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightSecure was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightSecure was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightSecure was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightChat was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightChat was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightChat was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightChat was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPortal was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPortal was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPortal was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+The delivery experience for InsightPortal was smooth from checkout to doorstep.,positive,satisfaction,Delivery,Praise
+Delivery was extremely late and customer support did not respond.,negative,frustration,Delivery,Complaint
+Delivery was extremely late and customer support did not respond. This was reported for InsightCloud.,negative,frustration,Delivery,Complaint
+The courier lost my package and nobody provided a refund update.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPay.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPay.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPay.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPay.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCloud.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCloud.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCloud.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCloud.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightMobile.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightMobile.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightMobile.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightMobile.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCRM.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCRM.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCRM.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightCRM.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightAnalytics.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightAnalytics.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightAnalytics.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightAnalytics.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightSecure.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightSecure.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightSecure.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightSecure.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightChat.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightChat.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightChat.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightChat.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPortal.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPortal.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPortal.,negative,frustration,Delivery,Complaint
+Shipping delay of five days ruined the rollout of InsightPortal.,negative,frustration,Delivery,Complaint
+My order never arrived and the tracking page stayed stuck.,negative,frustration,Delivery,Complaint
+My order never arrived and the tracking page stayed stuck. This was reported for InsightMobile.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Ahmedabad is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Surat is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in Mumbai is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+Late delivery in London is becoming a repeated issue for us.,negative,frustration,Delivery,Complaint
+The package arrived damaged after a long delay.,negative,frustration,Delivery,Complaint
+Delivery partner missed two scheduled slots without notice.,negative,frustration,Delivery,Complaint
+Delivery partner missed two scheduled slots without notice. This was reported for InsightCRM.,negative,frustration,Delivery,Complaint
+Customer support resolved my ticket in under an hour.,positive,satisfaction,Customer Support,Praise
+"The agent was patient, knowledgeable, and genuinely helpful.",positive,satisfaction,Customer Support,Praise
+"The agent was patient, knowledgeable, and genuinely helpful. This was reported for InsightAnalytics.",positive,satisfaction,Customer Support,Praise
+Live chat support walked me through the setup perfectly.,positive,satisfaction,Customer Support,Praise
+I am impressed with how quickly the helpdesk closed my request.,positive,satisfaction,Customer Support,Praise
+I am impressed with how quickly the helpdesk closed my request. This was reported for InsightPortal.,positive,satisfaction,Customer Support,Praise
+I waited two days and customer support still has not replied.,negative,frustration,Customer Support,Complaint
+The support agent closed my ticket without solving anything.,negative,frustration,Customer Support,Complaint
+The support agent closed my ticket without solving anything. This was reported for InsightPay.,negative,frustration,Customer Support,Complaint
+Response time is unacceptable and I had to repeat my issue three times.,negative,frustration,Customer Support,Complaint
+Nobody from support called me back after promising an update.,negative,frustration,Customer Support,Complaint
+Nobody from support called me back after promising an update. This was reported for InsightPay.,negative,frustration,Customer Support,Complaint
+Your helpdesk keeps transferring me between departments.,negative,frustration,Customer Support,Complaint
+The new InsightPay features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPay features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPay features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPay features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCloud features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCloud features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCloud features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCloud features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightMobile features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightMobile features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightMobile features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightMobile features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCRM features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCRM features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCRM features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightCRM features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightAnalytics features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightAnalytics features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightAnalytics features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightAnalytics features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightSecure features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightSecure features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightSecure features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightSecure features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightChat features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightChat features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightChat features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightChat features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPortal features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPortal features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPortal features are intuitive and save our team hours.,positive,joy,Product,Praise
+The new InsightPortal features are intuitive and save our team hours.,positive,joy,Product,Praise
+Build quality of InsightPay exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPay exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPay exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPay exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCloud exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCloud exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCloud exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCloud exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightMobile exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightMobile exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightMobile exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightMobile exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCRM exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCRM exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCRM exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightCRM exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightAnalytics exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightAnalytics exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightAnalytics exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightAnalytics exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightSecure exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightSecure exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightSecure exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightSecure exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightChat exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightChat exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightChat exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightChat exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPortal exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPortal exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPortal exceeded our expectations.,positive,joy,Product,Praise
+Build quality of InsightPortal exceeded our expectations.,positive,joy,Product,Praise
+We love the reliability of InsightPay during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPay during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPay during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPay during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCloud during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCloud during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCloud during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCloud during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightMobile during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightMobile during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightMobile during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightMobile during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCRM during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCRM during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCRM during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightCRM during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightAnalytics during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightAnalytics during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightAnalytics during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightAnalytics during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightSecure during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightSecure during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightSecure during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightSecure during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightChat during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightChat during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightChat during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightChat during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPortal during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPortal during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPortal during peak hours.,positive,joy,Product,Praise
+We love the reliability of InsightPortal during peak hours.,positive,joy,Product,Praise
+Product onboarding was simple and the value was immediate.,positive,joy,Product,Praise
+The latest InsightPay release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPay release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPay release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPay release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCloud release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCloud release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCloud release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCloud release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightMobile release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightMobile release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightMobile release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightMobile release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCRM release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCRM release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCRM release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightCRM release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightAnalytics release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightAnalytics release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightAnalytics release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightAnalytics release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightSecure release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightSecure release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightSecure release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightSecure release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightChat release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightChat release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightChat release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightChat release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPortal release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPortal release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPortal release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+The latest InsightPortal release feels unfinished and buggy.,negative,disappointment,Product,Complaint
+Product quality has declined after the last update.,negative,disappointment,Product,Complaint
+Several core InsightPay features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPay features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPay features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPay features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCloud features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCloud features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCloud features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCloud features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightMobile features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightMobile features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightMobile features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightMobile features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCRM features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCRM features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCRM features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightCRM features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightAnalytics features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightAnalytics features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightAnalytics features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightAnalytics features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightSecure features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightSecure features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightSecure features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightSecure features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightChat features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightChat features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightChat features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightChat features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPortal features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPortal features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPortal features are missing for enterprise use.,negative,disappointment,Product,Complaint
+Several core InsightPortal features are missing for enterprise use.,negative,disappointment,Product,Complaint
+The hardware accessory arrived with a manufacturing defect.,negative,disappointment,Product,Complaint
+The hardware accessory arrived with a manufacturing defect. This was reported for InsightPortal.,negative,disappointment,Product,Complaint
+Checkout was seamless and the card payment succeeded instantly.,positive,satisfaction,Payment,Praise
+Checkout was seamless and the card payment succeeded instantly. This was reported for InsightSecure.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPay is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPay is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPay is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPay is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCloud is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCloud is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCloud is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCloud is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightMobile is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightMobile is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightMobile is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightMobile is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCRM is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCRM is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCRM is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightCRM is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightAnalytics is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightAnalytics is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightAnalytics is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightAnalytics is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightSecure is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightSecure is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightSecure is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightSecure is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightChat is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightChat is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightChat is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightChat is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPortal is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPortal is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPortal is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Invoicing in InsightPortal is clear and finance approved it quickly.,positive,satisfaction,Payment,Praise
+Refund was processed faster than I expected.,positive,satisfaction,Payment,Praise
+Payment failed twice at checkout and the amount was still held.,negative,anger,Payment,Complaint
+Payment failed twice at checkout and the amount was still held. This was reported for InsightAnalytics.,negative,anger,Payment,Complaint
+I was charged twice and the refund is still pending.,negative,anger,Payment,Complaint
+Billing invoice does not match the contracted pricing.,negative,anger,Payment,Complaint
+Billing invoice does not match the contracted pricing. This was reported for InsightMobile.,negative,anger,Payment,Complaint
+Card verification keeps failing on the mobile checkout page.,negative,anger,Payment,Complaint
+Unauthorized charge appeared on our corporate card after renewal.,negative,anger,Payment,Complaint
+The pricing is far too high for the current feature set.,negative,disappointment,Pricing,Suggestion
+The pricing is far too high for the current feature set. This was reported for InsightSecure.,negative,disappointment,Pricing,Suggestion
+Please reconsider the annual price increase for SMB customers.,negative,disappointment,Pricing,Suggestion
+Please reconsider the annual price increase for SMB customers. This was reported for InsightPortal.,negative,disappointment,Pricing,Suggestion
+We need a more transparent pricing page with add-on costs.,negative,disappointment,Pricing,Suggestion
+The plan is expensive compared with competitors but still usable.,neutral,neutral,Pricing,Information
+"Happy with the value, the price feels fair for InsightPay.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPay.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPay.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPay.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCloud.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCloud.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCloud.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCloud.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightMobile.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightMobile.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightMobile.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightMobile.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCRM.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCRM.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCRM.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightCRM.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightAnalytics.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightAnalytics.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightAnalytics.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightAnalytics.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightSecure.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightSecure.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightSecure.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightSecure.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightChat.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightChat.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightChat.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightChat.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPortal.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPortal.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPortal.",positive,satisfaction,Pricing,Praise
+"Happy with the value, the price feels fair for InsightPortal.",positive,satisfaction,Pricing,Praise
+The dashboard crashes whenever I export a large CSV.,negative,frustration,Technical Issue,Bug Report
+The dashboard crashes whenever I export a large CSV. This was reported for InsightMobile.,negative,frustration,Technical Issue,Bug Report
+Users cannot login after the last authentication update.,negative,frustration,Technical Issue,Bug Report
+Users cannot login after the last authentication update. This was reported for InsightMobile.,negative,frustration,Technical Issue,Bug Report
+API timeouts are breaking our nightly sync jobs.,negative,frustration,Technical Issue,Bug Report
+API timeouts are breaking our nightly sync jobs. This was reported for InsightChat.,negative,frustration,Technical Issue,Bug Report
+The mobile app crashes on Android 14 during search.,negative,frustration,Technical Issue,Bug Report
+We keep seeing a 500 error on the reports page.,negative,frustration,Technical Issue,Bug Report
+Bug: notifications never mark themselves as read.,negative,frustration,Technical Issue,Bug Report
+Bug: notifications never mark themselves as read. This was reported for InsightCloud.,negative,frustration,Technical Issue,Bug Report
+The new navigation is confusing and I cannot find settings.,negative,confusion,UX/UI,Complaint
+"Please simplify the filter panel, it is overcrowded.",neutral,confusion,UX/UI,Suggestion
+"Love the cleaner layout, the interface is much easier now.",positive,joy,UX/UI,Praise
+Dark mode contrast on charts is hard to read.,negative,disappointment,UX/UI,Bug Report
+The onboarding tooltip blocked the save button.,negative,frustration,UX/UI,Bug Report
+The application is extremely slow during morning peak hours.,negative,frustration,Performance,Complaint
+Report generation takes more than four minutes.,negative,disappointment,Performance,Bug Report
+"Pages load quickly even with large datasets, great work.",positive,satisfaction,Performance,Praise
+Search latency has improved after the last release.,positive,satisfaction,Performance,Praise
+Timeouts on the analytics page make the tool unusable.,negative,anger,Performance,Complaint
+Timeouts on the analytics page make the tool unusable. This was reported for InsightMobile.,negative,anger,Performance,Complaint
+We detected suspicious login attempts on admin accounts.,negative,anger,Security,Bug Report
+Please add hardware key support for enterprise SSO.,neutral,neutral,Security,Feature Request
+Password reset emails are delayed which is a security risk.,negative,frustration,Security,Complaint
+Unauthorized access alert fired twice last night.,negative,anger,Security,Complaint
+"Appreciate the new audit trail, it helps our compliance team.",positive,satisfaction,Security,Praise
+I cannot reset my password and the account is locked.,negative,frustration,Account,Request
+Please update our billing admin on the enterprise account.,negative,frustration,Account,Request
+User provisioning from SSO is creating duplicate accounts.,negative,frustration,Account,Request
+How do I deactivate a former employee account?,neutral,confusion,Account,Question
+The API documentation is missing the pagination examples.,negative,confusion,Documentation,Bug Report
+Implementation guide is clear and helped us go live faster.,positive,satisfaction,Documentation,Praise
+Implementation guide is clear and helped us go live faster. This was reported for InsightPay.,positive,satisfaction,Documentation,Praise
+Please publish a changelog for the latest webhook fields.,neutral,neutral,Documentation,Request
+Please publish a changelog for the latest webhook fields. This was reported for InsightSecure.,neutral,neutral,Documentation,Request
+Docs still mention a deprecated authentication header.,negative,disappointment,Documentation,Bug Report
+Docs still mention a deprecated authentication header. This was reported for InsightPay.,negative,disappointment,Documentation,Bug Report
+Onsite implementation service was professional and thorough.,positive,satisfaction,Service,Praise
+The professional services team missed the agreed milestone.,negative,disappointment,Service,Complaint
+The professional services team missed the agreed milestone. This was reported for InsightCloud.,negative,disappointment,Service,Complaint
+Training session for new managers was excellent.,positive,joy,Service,Praise
+Onboarding consultant did not understand our workflow.,negative,frustration,Service,Complaint
+How do I export filtered analytics to CSV?,neutral,confusion,Other,Question
+What is the SLA for priority one incidents?,neutral,confusion,Other,Question
+Can InsightPay integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPay integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPay integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPay integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCloud integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCloud integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCloud integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCloud integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightMobile integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightMobile integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightMobile integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightMobile integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCRM integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCRM integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCRM integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightCRM integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightAnalytics integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightAnalytics integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightAnalytics integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightAnalytics integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightSecure integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightSecure integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightSecure integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightSecure integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightChat integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightChat integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightChat integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightChat integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPortal integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPortal integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPortal integrate with our existing billing system?,neutral,confusion,Other,Question
+Can InsightPortal integrate with our existing billing system?,neutral,confusion,Other,Question
+Where can I find the data retention policy?,neutral,confusion,Other,Question
+It would help if you added weekly digest emails for managers.,neutral,neutral,Other,Suggestion
+Consider a bulk reassign option for open tickets.,neutral,neutral,Other,Suggestion
+Consider a bulk reassign option for open tickets. This was reported for InsightCRM.,neutral,neutral,Other,Suggestion
+A comparison view across products would be useful.,neutral,neutral,Other,Suggestion
+Please allow saved filters on the feedback explorer.,neutral,neutral,Other,Suggestion
+Please allow saved filters on the feedback explorer. This was reported for InsightCRM.,neutral,neutral,Other,Suggestion
+Feature request: role-based alert routing by department.,neutral,neutral,Product,Feature Request
+Please add Slack notifications for critical feedback.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPay.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPay.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPay.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPay.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCloud.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCloud.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCloud.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCloud.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightMobile.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightMobile.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightMobile.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightMobile.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCRM.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCRM.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCRM.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightCRM.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightAnalytics.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightAnalytics.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightAnalytics.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightAnalytics.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightSecure.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightSecure.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightSecure.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightSecure.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightChat.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightChat.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightChat.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightChat.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPortal.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPortal.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPortal.,neutral,neutral,Product,Feature Request
+We need multi-currency invoices in InsightPortal.,neutral,neutral,Product,Feature Request
+Add an API endpoint for historical sentiment trends.,neutral,neutral,Product,Feature Request
+"Outstanding release, the team should be proud of InsightPay.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPay.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPay.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPay.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCloud.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCloud.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCloud.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCloud.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightMobile.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightMobile.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightMobile.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightMobile.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCRM.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCRM.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCRM.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightCRM.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightAnalytics.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightAnalytics.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightAnalytics.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightAnalytics.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightSecure.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightSecure.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightSecure.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightSecure.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightChat.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightChat.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightChat.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightChat.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPortal.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPortal.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPortal.",positive,joy,Product,Praise
+"Outstanding release, the team should be proud of InsightPortal.",positive,joy,Product,Praise
+"Thank you for the rapid hotfix, everything is stable again.",positive,joy,Product,Praise
+Your onboarding specialist made our go-live painless.,positive,joy,Product,Praise
+Your onboarding specialist made our go-live painless. This was reported for InsightCloud.,positive,joy,Product,Praise
+I recommend InsightPay to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPay to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPay to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPay to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCloud to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCloud to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCloud to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCloud to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightMobile to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightMobile to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightMobile to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightMobile to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCRM to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCRM to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCRM to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightCRM to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightAnalytics to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightAnalytics to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightAnalytics to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightAnalytics to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightSecure to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightSecure to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightSecure to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightSecure to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightChat to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightChat to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightChat to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightChat to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPortal to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPortal to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPortal to every operations leader I meet.,positive,joy,Product,Praise
+I recommend InsightPortal to every operations leader I meet.,positive,joy,Product,Praise
+Sharing that our usage will increase next quarter.,neutral,neutral,Other,Information
+This is an FYI that the Mumbai office is migrating next week.,neutral,neutral,Other,Information
+This is an FYI that the Mumbai office is migrating next week. This was reported for InsightChat.,neutral,neutral,Other,Information
+We completed internal training on the new workflow.,neutral,neutral,Other,Information
+Noting that the survey was submitted by the finance team.,neutral,neutral,Other,Information
+Please send the latest security questionnaire.,neutral,neutral,Customer Support,Request
+Can you schedule a call with our procurement team?,neutral,neutral,Customer Support,Request
+We need access for three additional analysts this week.,neutral,neutral,Customer Support,Request
+Kindly share the incident report from last Friday.,neutral,neutral,Customer Support,Request
+The internal portal for leave requests is confusing.,neutral,confusion,Other,Suggestion
+Payroll support answered quickly and corrected the error.,neutral,confusion,Other,Suggestion
+Payroll support answered quickly and corrected the error. This was reported for InsightSecure.,neutral,confusion,Other,Suggestion
+New hire documentation is incomplete for remote staff.,neutral,confusion,Other,Suggestion
+I am delighted with the onboarding journey for InsightPay.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPay.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPay.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPay.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCloud.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCloud.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCloud.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCloud.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightMobile.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightMobile.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightMobile.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightMobile.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCRM.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCRM.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCRM.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightCRM.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightAnalytics.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightAnalytics.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightAnalytics.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightAnalytics.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightSecure.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightSecure.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightSecure.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightSecure.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightChat.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightChat.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightChat.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightChat.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPortal.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPortal.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPortal.,positive,joy,Service,Praise
+I am delighted with the onboarding journey for InsightPortal.,positive,joy,Service,Praise
+"Absolutely thrilled, this exceeded every expectation.",positive,joy,Product,Praise
+Happy to see the refund completed without extra emails.,positive,satisfaction,Payment,Praise
+"The product is okay, nothing special but it works.",neutral,neutral,Product,Information
+"Average experience overall, neither good nor bad.",neutral,neutral,Service,Information
+"Fine for now, we will evaluate again next quarter.",neutral,neutral,Product,Information
+I am so angry about the failed payroll deduction.,negative,anger,Payment,Complaint
+I am so angry about the failed payroll deduction. This was reported for InsightPortal.,negative,anger,Payment,Complaint
+This is the worst outage we have had this year.,negative,anger,Technical Issue,Bug Report
+Sad to see the quality drop after years of loyalty.,negative,sadness,Product,Complaint
+I am sad that the service we relied on is gone.,negative,sadness,Service,Complaint
+I am sad that the service we relied on is gone. This was reported for InsightAnalytics.,negative,sadness,Service,Complaint
+Feeling sad about losing access to historical reports.,negative,sadness,Product,Complaint
+It is sad that our favorite workflow was removed.,negative,sadness,UX/UI,Complaint
+We are sad to churn after five years with InsightPay.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPay.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPay.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPay.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCloud.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCloud.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCloud.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCloud.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightMobile.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightMobile.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightMobile.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightMobile.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCRM.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCRM.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCRM.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightCRM.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightAnalytics.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightAnalytics.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightAnalytics.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightAnalytics.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightSecure.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightSecure.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightSecure.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightSecure.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightChat.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightChat.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightChat.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightChat.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPortal.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPortal.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPortal.,negative,sadness,Product,Complaint
+We are sad to churn after five years with InsightPortal.,negative,sadness,Product,Complaint
+Heartbroken that the promised migration support never arrived.,negative,sadness,Customer Support,Complaint
+Heartbroken that the promised migration support never arrived. This was reported for InsightPay.,negative,sadness,Customer Support,Complaint
+I miss the old interface; the change left our team unhappy.,negative,sadness,UX/UI,Complaint
+"Sorry to see reliability decline, this used to be dependable.",negative,sadness,Performance,Complaint
+I feel disappointed that the promised feature never shipped.,negative,disappointment,Product,Complaint
+Confused about how seats are counted on the invoice.,neutral,confusion,Pricing,Question
+Confused about how seats are counted on the invoice. This was reported for InsightAnalytics.,neutral,confusion,Pricing,Question
+Unable to understand the new permission model.,negative,confusion,UX/UI,Question
+Please add export to JSON for compliance reviews.,neutral,neutral,Product,Feature Request
+Is two-factor authentication mandatory for partners?,neutral,confusion,Security,Question
+Authentication failures have increased since Tuesday.,negative,frustration,Technical Issue,Bug Report
+Mobile users cannot complete payment on InsightPay.,negative,frustration,Payment,Bug Report
+Mobile users cannot complete payment on InsightPay. This was reported for InsightAnalytics.,negative,frustration,Payment,Bug Report
+Delivery SLA in Ahmedabad and Surat is consistently missed.,negative,frustration,Delivery,Complaint
+Call center hold time is over twenty minutes.,negative,anger,Customer Support,Complaint
+Survey follow-up email never arrived.,negative,disappointment,Customer Support,Complaint
+Internal HR form submission fails on Safari.,negative,frustration,Technical Issue,Bug Report
+Sales demo environment was prepared perfectly.,positive,satisfaction,Service,Praise
+Sales demo environment was prepared perfectly. This was reported for InsightSecure.,positive,satisfaction,Service,Praise
+Documentation search finally returns relevant pages.,positive,satisfaction,Documentation,Praise
+We need weekend coverage from customer support.,neutral,neutral,Customer Support,Request
+Can you confirm data residency for the Singapore workspace?,neutral,neutral,Security,Question
+Can you confirm data residency for the Singapore workspace? This was reported for InsightPortal.,neutral,neutral,Security,Question
+The chatbot gave irrelevant answers about refund policy.,negative,frustration,Customer Support,Complaint
+The chatbot gave irrelevant answers about refund policy. This was reported for InsightCloud.,negative,frustration,Customer Support,Complaint
+"Loved the in-app guidance, first-time users finished setup quickly.",positive,joy,UX/UI,Praise
+Performance is acceptable on desktop but poor on mobile.,neutral,disappointment,Performance,Suggestion
+Performance is acceptable on desktop but poor on mobile. This was reported for InsightCRM.,neutral,disappointment,Performance,Suggestion
+A duplicate charge appeared after the free trial ended.,negative,anger,Payment,Complaint
+Please investigate why webhooks are delivered twice.,negative,confusion,Technical Issue,Bug Report
+Please investigate why webhooks are delivered twice. This was reported for InsightCloud.,negative,confusion,Technical Issue,Bug Report
+Great job reducing login time after the identity upgrade.,positive,satisfaction,Account,Praise
+Great job reducing login time after the identity upgrade. This was reported for InsightPortal.,positive,satisfaction,Account,Praise

@@ -1,0 +1,6 @@
+feedback_id,customer_id,date,text,product,department,channel,location,segment,rating,status,sentiment,emotion,category,intent,priority,severity
+FB-4808BF8F,CU-TEST-1,2026-09-06T07:16:48.836911,Delivery was extremely late and customer support did not respond.,InsightPortal,Operations,Email,Ahmedabad,Enterprise,1,open,negative,frustration,Customer Support,Complaint,critical,3
+FB-7C397156,CU-DB-2,2026-09-06T07:15:48.545719,Please add Slack notifications for critical feedback.,InsightChat,Engineering,Chat,London,Enterprise,4,open,neutral,neutral,Product,Feature Request,medium,1
+FB-EBFFBAF9,CU-TEST-1,2026-09-06T07:15:47.901826,Delivery was extremely late and customer support did not respond.,InsightPortal,Operations,Email,Ahmedabad,Enterprise,1,open,negative,frustration,Customer Support,Complaint,critical,3
+FB-417E21E0,CU-9,2026-07-01T00:00:00,The delivery was late and support did not help,InsightPay,Operations,Email,Surat,SMB,2,open,negative,frustration,Delivery,Complaint,critical,3
+FB-CSV-1,CU-9,2026-07-01T00:00:00,The delivery was late and support did not help,InsightPay,Operations,Email,Surat,SMB,2,open,negative,frustration,Delivery,Complaint,critical,3

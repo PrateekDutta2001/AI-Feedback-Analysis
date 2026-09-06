@@ -1,0 +1,3 @@
+feedback_id,customer_id,date,text,product,department,channel,location,segment,rating,status,sentiment,emotion,category,intent,priority,severity
+FB-EBFFBAF9,CU-TEST-1,2026-09-06T07:15:47.901826,Delivery was extremely late and customer support did not respond.,InsightPortal,Operations,Email,Ahmedabad,Enterprise,1,open,negative,frustration,Customer Support,Complaint,critical,3
+FB-CSV-1,CU-9,2026-07-01T00:00:00,The delivery was late and support did not help,InsightPay,Operations,Email,Surat,SMB,2,open,negative,frustration,Delivery,Complaint,critical,3
