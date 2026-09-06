@@ -332,6 +332,8 @@ python backend/run.py
 
 Application: [http://localhost:8000](http://localhost:8000)
 
+http://localhost:8000/#/dashboard
+
 Swagger: [http://localhost:8000/docs](http://localhost:8000/docs)
 
 Reload mode:
