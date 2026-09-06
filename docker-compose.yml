@@ -1,0 +1,35 @@
+services:
+  insightai:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      APP_NAME: InsightAI
+      APP_ENV: production
+      DEBUG: "false"
+      HOST: 0.0.0.0
+      PORT: 8000
+      DATABASE_URL: sqlite:////app/data/insightai.db
+      MODEL_DIR: /app/models
+      DATA_DIR: /app/data
+      LOG_DIR: /app/logs
+      EXPORT_DIR: /app/exports
+      CORS_ORIGINS: http://localhost:8000,http://127.0.0.1:8000
+      SIMILARITY_THRESHOLD: "0.85"
+    volumes:
+      - insightai-db:/app/data
+      - insightai-models:/app/models
+      - insightai-logs:/app/logs
+      - insightai-exports:/app/exports
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://127.0.0.1:8000/api/health"]
+      interval: 30s
+      timeout: 8s
+      retries: 5
+      start_period: 90s
+
+volumes:
+  insightai-db:
+  insightai-models:
+  insightai-logs:
+  insightai-exports:
