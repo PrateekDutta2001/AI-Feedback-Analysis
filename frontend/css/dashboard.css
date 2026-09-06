@@ -1,0 +1,33 @@
+.chart-card canvas { max-height: 280px; }
+.chart-card h3, .card h3 { font-size: 15px; margin-bottom: 12px; }
+.health-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.health-pill {
+  border-radius: 999px;
+  padding: 4px 10px;
+  background: var(--success-soft);
+  color: var(--success);
+  font-size: 12px;
+  font-weight: 600;
+}
+.health-pill.bad { background: var(--danger-soft); color: var(--danger); }
+.metric-table td:last-child, .metric-table th:last-child { text-align: right; }
+.topic-card .meta { display: flex; justify-content: space-between; color: var(--text-muted); margin: 8px 0; }
+.keyword-list { display: flex; flex-wrap: wrap; gap: 6px; }
+.keyword {
+  background: var(--primary-soft);
+  color: var(--primary);
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 12px;
+}
+.matrix {
+  display: grid;
+  gap: 4px;
+  font-size: 12px;
+}
+.matrix span {
+  background: var(--primary-soft);
+  padding: 6px;
+  text-align: center;
+  border-radius: 6px;
+}

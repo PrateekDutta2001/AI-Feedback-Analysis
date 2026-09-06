@@ -1,0 +1,26 @@
+@media (max-width: 1440px) {
+  .grid-4 { grid-template-columns: repeat(2, 1fr); }
+  .filters { grid-template-columns: repeat(3, 1fr); }
+}
+
+@media (max-width: 1024px) {
+  .sidebar { position: fixed; left: 0; transform: translateX(0); z-index: 30; }
+  .sidebar.collapsed { transform: translateX(-110%); }
+  .grid-3, .grid-2 { grid-template-columns: 1fr; }
+  .date-filter span { display: none; }
+}
+
+@media (max-width: 768px) {
+  .topbar { flex-wrap: wrap; height: auto; padding: 12px; }
+  .search-box { order: 3; flex-basis: 100%; }
+  .user-chip div { display: none; }
+  .form-grid { grid-template-columns: 1fr; }
+  .filters { grid-template-columns: 1fr 1fr; }
+  .content { padding: 16px; }
+}
+
+@media (max-width: 390px) {
+  .top-actions { gap: 6px; }
+  .date-filter input { width: 110px; }
+  .page-header { flex-direction: column; }
+}

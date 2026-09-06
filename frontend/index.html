@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>InsightAI — Enterprise Feedback Intelligence</title>
+  <link rel="stylesheet" href="/css/main.css" />
+  <link rel="stylesheet" href="/css/components.css" />
+  <link rel="stylesheet" href="/css/dashboard.css" />
+  <link rel="stylesheet" href="/css/responsive.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <div class="brand-mark">IA</div>
+        <div>
+          <strong>InsightAI</strong>
+          <span>Feedback Intelligence</span>
+        </div>
+      </div>
+      <nav class="side-nav">
+        <a href="#/dashboard" data-route="dashboard">Dashboard</a>
+        <p class="nav-label">Feedback</p>
+        <a href="#/feedback" data-route="feedback">All Feedback</a>
+        <a href="#/feedback-add" data-route="feedback-add">Add Feedback</a>
+        <a href="#/feedback-import" data-route="feedback-import">Import Data</a>
+        <p class="nav-label">Analytics</p>
+        <a href="#/analytics" data-route="analytics">Sentiment</a>
+        <a href="#/topics" data-route="topics">Topics</a>
+        <a href="#/products" data-route="products">Products</a>
+        <a href="#/departments" data-route="departments">Departments</a>
+        <a href="#/insights" data-route="insights">AI Insights</a>
+        <a href="#/alerts" data-route="alerts">Alerts</a>
+        <a href="#/models" data-route="models">ML Models</a>
+        <a href="#/datasets" data-route="datasets">Data Management</a>
+        <a href="#/audit" data-route="audit">Audit Logs</a>
+        <a href="#/settings" data-route="settings">Settings</a>
+      </nav>
+    </aside>
+
+    <div class="main">
+      <header class="topbar">
+        <button class="icon-btn" id="menuToggle" aria-label="Toggle navigation">☰</button>
+        <form id="globalSearchForm" class="search-box">
+          <input id="globalSearch" type="search" placeholder="Search feedback, customers, products…" />
+        </form>
+        <div class="top-actions">
+          <label class="date-filter">
+            <span>From</span>
+            <input type="date" id="dateFrom" />
+          </label>
+          <label class="date-filter">
+            <span>To</span>
+            <input type="date" id="dateTo" />
+          </label>
+          <button class="icon-btn" id="notifyBtn" aria-label="Notifications">
+            🔔
+            <span class="badge-dot" id="notifyDot" hidden></span>
+          </button>
+          <button class="icon-btn" id="themeToggle" aria-label="Toggle theme">◐</button>
+          <div class="user-chip">
+            <span class="avatar">PS</span>
+            <div>
+              <strong>Priya Shah</strong>
+              <small>Analyst</small>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <main id="content" class="content">
+        <section class="view" id="view-dashboard"></section>
+        <section class="view" id="view-feedback" hidden></section>
+        <section class="view" id="view-feedback-add" hidden></section>
+        <section class="view" id="view-feedback-import" hidden></section>
+        <section class="view" id="view-analytics" hidden></section>
+        <section class="view" id="view-topics" hidden></section>
+        <section class="view" id="view-products" hidden></section>
+        <section class="view" id="view-departments" hidden></section>
+        <section class="view" id="view-insights" hidden></section>
+        <section class="view" id="view-alerts" hidden></section>
+        <section class="view" id="view-models" hidden></section>
+        <section class="view" id="view-datasets" hidden></section>
+        <section class="view" id="view-audit" hidden></section>
+        <section class="view" id="view-settings" hidden></section>
+      </main>
+    </div>
+  </div>
+
+  <div id="drawer" class="drawer" hidden></div>
+  <div id="modal" class="modal" hidden></div>
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+
+  <script src="/js/api.js"></script>
+  <script src="/js/components.js"></script>
+  <script src="/js/dashboard.js"></script>
+  <script src="/js/feedback.js"></script>
+  <script src="/js/analytics.js"></script>
+  <script src="/js/insights.js"></script>
+  <script src="/js/alerts.js"></script>
+  <script src="/js/models.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>
